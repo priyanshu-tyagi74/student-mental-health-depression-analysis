@@ -2,8 +2,7 @@
 
 An end-to-end data analysis project exploring how lifestyle, academic, and financial factors relate to depression among students — cleaned in **Excel** and visualized in an interactive **Tableau** dashboard.
 
-![Dashboard Preview](![Dashboard Preview](Screenshot%202026-07-31%20000921.png))
-
+![Dashboard Preview](Screenshot%202026-07-31%20000921.png)
 🔗 **[View Live Interactive Dashboard on Tableau Public](https://public.tableau.com/views/StudentMentalHealthDepressionAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
@@ -27,7 +26,7 @@ The goal was to turn raw survey data into a clean, decision-ready dataset and a 
 
 ## 📊 Dataset
 
-The cleaned dataset (The cleaned dataset (`DEPRESSION CLEAN.xlsx`) contains the following fields:`) contains the following fields:
+The cleaned dataset (`DEPRESSION CLEAN.xlsx`) contains the following fields:
 
 | Column | Description |
 |---|---|
